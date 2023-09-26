@@ -5,7 +5,7 @@ Nesse GitHub você vai acompanhar práticas do meu segundo e terceiro semestre (
 - 2º Semestre - Machine Learnig 
 - 3° Semestre - Algoritmos Genéticos e Redes Neurais 
 
-- ⚡ _Fun fact: Faz um ano e dois meses que eu fiz o primeiro print "Hello World"_
+- ⚡ _Fun fact: Faz um ano e seis meses que eu fiz o primeiro print "Hello World"_
 
 ### Dados sobre o meu GitHub
 
