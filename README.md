@@ -3,9 +3,10 @@
 Nesse GitHub você vai acompanhar práticas do meu segundo e terceiro semestre (em andamento...) na ILUM - Escola superior de ensino de Ciência do CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
 
 - 2º Semestre - Machine Learnig 
-- 3° Semestre - Algoritmos Genéticos e Redes Neurais 
+- 3° Semestre - Algoritmos Genéticos e Redes Neurais
 
-- ⚡ _Fun fact: Faz um ano e 8 meses que eu fiz o primeiro print "Hello World"_
+
+- ⚡ _Fun fact: Faz dois anos que eu fiz o primeiro print "Hello World"_
 
 ### Dados sobre o meu GitHub
 
